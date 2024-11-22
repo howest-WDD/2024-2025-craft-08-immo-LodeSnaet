@@ -95,20 +95,23 @@
 							<div class="c-immo-card__imgcontainer">
 								<img src={{house.cover.one().url()}} alt="" class="c-immo-card__img">
 								<!-- todo: Zorg dat de kleur veranderd dmv c-immo-card__tag--rent toe te passen wanneer iets for rent staat  -->
+								<div class="c-immo-card__tag c-immo-card__tag--{{ house.state }}">
+									<p>For {{house.state}}</p>
+								</div>
 
-								{% if  house.state.value == 'rent' %}
+{#								{% if  house.state.value == 'rent' %}#}
 
-									<div class="c-immo-card__tag c-immo-card__tag--rent">
-										<p>For{{house.state}}</p>
-									</div>
+{#									<div class="c-immo-card__tag c-immo-card__tag--rent">#}
+{#										<p>For{{house.state}}</p>#}
+{#									</div>#}
 
-								{% elseif house.state.value == 'sale' %}
+{#								{% elseif house.state.value == 'sale' %}#}
 
-									<div class="c-immo-card__tag c-immo-card__tag--sale">
-										<p>For{{house.state}}</p>
-									</div>
+{#									<div class="c-immo-card__tag c-immo-card__tag--sale">#}
+{#										<p>For{{house.state}}</p>#}
+{#									</div>#}
 
-								{% endif %}
+{#								{% endif %}#}
 
 
 							</div>

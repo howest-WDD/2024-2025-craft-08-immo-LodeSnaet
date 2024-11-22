@@ -1,0 +1,21 @@
+columnSuffix: null
+handle: strengths
+instructions: null
+name: Strengths
+searchable: false
+settings:
+  createButtonLabel: null
+  defaultIndexViewMode: cards
+  entryTypes:
+    - 1ae523a1-d402-4053-9dc7-03f6b7a44b0f # List Item
+  includeTableView: false
+  maxEntries: null
+  minEntries: null
+  pageSize: null
+  propagationKeyFormat: null
+  propagationMethod: all
+  showCardsInGrid: false
+  viewMode: blocks
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Matrix
