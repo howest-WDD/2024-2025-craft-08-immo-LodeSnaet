@@ -8,7 +8,7 @@ fieldLayouts:
           -
             dateAdded: '2024-11-22T08:51:50+00:00'
             elementCondition: null
-            fieldUid: e2e222ba-6107-4ebe-ba6f-c26cc3a40dd8 # List Item
+            fieldUid: e2e222ba-6107-4ebe-ba6f-c26cc3a40dd8 # Subtext
             handle: null
             includeInCards: false
             instructions: null

@@ -54,7 +54,7 @@ fieldLayouts:
           -
             dateAdded: '2024-11-18T15:29:45+00:00'
             elementCondition: null
-            fieldUid: e2e222ba-6107-4ebe-ba6f-c26cc3a40dd8 # List Item
+            fieldUid: e2e222ba-6107-4ebe-ba6f-c26cc3a40dd8 # Subtext
             handle: location
             includeInCards: false
             instructions: null
@@ -64,6 +64,22 @@ fieldLayouts:
             tip: null
             type: craft\fieldlayoutelements\CustomField
             uid: 4da3e556-0448-4bc0-9b29-e3a5bd276fac
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-22T10:43:30+00:00'
+            elementCondition: null
+            fieldUid: 43d49cb6-9404-4b40-a33e-c6162dcd6100 # Category
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 09ea1c40-655a-4ca0-bab1-3606f4468b8a
             userCondition: null
             warning: null
             width: 100
