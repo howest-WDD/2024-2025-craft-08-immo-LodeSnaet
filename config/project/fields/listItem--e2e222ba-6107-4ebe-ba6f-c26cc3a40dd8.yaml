@@ -1,7 +1,7 @@
 columnSuffix: null
-handle: plainText
+handle: listItem
 instructions: null
-name: 'Plain Text'
+name: 'List Item'
 searchable: false
 settings:
   byteLimit: null

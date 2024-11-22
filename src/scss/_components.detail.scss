@@ -67,6 +67,11 @@
             background-color: $color-sale;
             color: $color-rent
         }
+
+        &--rent {
+            background-color:  $color-rent;
+            color: $color-sale
+        }
     }
 
     &__list {
